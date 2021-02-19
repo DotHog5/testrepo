@@ -1,0 +1,17 @@
+.wufoo .info h2 {
+    font-size: 110% !important;
+    font-family: inherit;
+    font-style: normal;
+    font-weight: normal;
+    color: #8bd22d !important;
+}
+
+.wufoo label.desc {
+    color: #e91636 !important;
+    text-decoration: underline;
+}
+
+.wufoo textarea.textarea {
+    border: 0;
+    background-color: #7430cf;
+}
